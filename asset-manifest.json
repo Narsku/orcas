@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/orcas/static/css/main.63f45f56.css",
-    "main.js": "/orcas/static/js/main.b9786c70.js",
+    "main.js": "/orcas/static/js/main.76e15d1b.js",
     "static/js/453.02e53410.chunk.js": "/orcas/static/js/453.02e53410.chunk.js",
     "static/media/fondo3.png": "/orcas/static/media/fondo3.fefe91347abc62cd0709.png",
     "static/media/orca.png": "/orcas/static/media/orca.e1671e109ffcec23ebbd.png",
     "index.html": "/orcas/index.html",
     "main.63f45f56.css.map": "/orcas/static/css/main.63f45f56.css.map",
-    "main.b9786c70.js.map": "/orcas/static/js/main.b9786c70.js.map",
+    "main.76e15d1b.js.map": "/orcas/static/js/main.76e15d1b.js.map",
     "453.02e53410.chunk.js.map": "/orcas/static/js/453.02e53410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63f45f56.css",
-    "static/js/main.b9786c70.js"
+    "static/js/main.76e15d1b.js"
   ]
 }
