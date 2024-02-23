@@ -89,13 +89,6 @@ function App() {
             Se colocan en la parte superior de la cadena alimenticia.<br/>
             Las orcas se alimentan de aves marinas, calamares, pulpos, tortugas marinas, tiburones, rayas y peces.
           </p>
-          <h2><strong>A veces cazan por practicar</strong> <br/></h2>
-          <p>            
-            Las orcas se enseñan a cazar unas a otras. Normalmente son las hembras las que enseñan a las crías. <br/>
-            Cuando no necesitan alimentarse pero sí enseñar a alguna cría cazarán pero no de comerán a la presa. <br/>
-            De esta manera pueden practicar y perfeccionar su técnica. <br/>
-            Una de sus técnicas es dar golpes a placas de hielo donde descansan las focas para ahogarlas.
-          </p>
         </div>
       </div>
     </div>
